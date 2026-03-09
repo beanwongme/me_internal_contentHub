@@ -1,0 +1,23 @@
+{
+  "name": "contenthub-kimi-proxy",
+  "version": "1.0.0",
+  "description": "Backend proxy for Kimi AI API to bypass CORS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "chromadb": "^3.3.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "multer": "^2.1.1",
+    "node-fetch": "^2.7.0",
+    "pdf-parse": "^2.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

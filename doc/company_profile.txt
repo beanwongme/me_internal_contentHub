@@ -1,0 +1,86 @@
+Company Profile: ME - Media Explorer
+Overview and Background
+ME - Media Explorer is a Hong Kong-based web design agency dedicated to empowering digital communication with heart and soul. The company has a established history in the digital space, with projects dating back to at least 2000, including early e-commerce solutions for clients like Café de Coral. Over the years, ME has evolved to deliver a wide range of digital innovations, with notable milestones such as the MTR Corporate Website in 2014, Octopus and ORIX corporate sites in 2017, various e-commerce and mobile app developments in 2019–2021 (e.g., Colourmix, Hung Fook Tong, MPFA), interactive directories like iCD Mall in 2022, and recent projects including the Hong Kong Built Heritage Alliance (HKBHA) New Digital Platform in 2025. This timeline reflects their long-standing expertise in adapting to technological advancements while serving major Hong Kong enterprises.
+Services and Solutions
+ME specializes in comprehensive digital services tailored for businesses, including:
+
+Enterprise e-commerce solutions for online retail and transactions.
+Customer loyalty management systems to enhance user engagement and retention.
+Facility management systems for efficient operations.
+Interactive installations, such as e-directories for malls or restaurants.
+Content management systems (CMS) for seamless website maintenance.
+These services are designed to integrate heart and soul into digital experiences, focusing on user-centric design and functionality.
+
+Products
+The agency offers a suite of proprietary products to support their services:
+
+MagicCart: An enterprise-level e-commerce platform.
+MOTI: A customer loyalty management system.
+Clubby: A facility and clubhouse management system.
+ME e-Directory: Interactive digital directories for navigation and information.
+ME-CMS: A robust content management system for websites.
+
+Mission and Values
+ME's core mission is to empower digital communication with genuine emotion and purpose, going beyond technical execution to create meaningful connections between brands and users.
+Clients
+The company has collaborated with prominent Hong Kong organizations, including SHKP (Sun Hung Kai Properties), HKTB (Hong Kong Tourism Board), MPFA (Mandatory Provident Fund Schemes Authority), Hung Fook Tong, Octopus, ORIX, MTR, Café de Coral, Colourmix, AV Life, Pro Audio, iCD Mall, Zero Finance HK, and the Hong Kong Built Heritage Alliance (HKBHA). These partnerships span sectors like retail, finance, transportation, and tourism.
+Team and Awards
+Specific details on the team are not available from the accessible site content. The company has received awards, though detailed information was referenced on a subpage that could not be retrieved due to a server error.
+Contact Information
+
+Address: Unit 303B, 3/F, Tower 2, Enterprise Square One, 9 Sheung Yuet Road, Kowloon Bay, Kowloon, Hong Kong.
+Phone: +852 2541 9978 or +852 2541 0940.
+Email: me@me.hk.
+Newsletter: Subscribe via https://edm.me.hk for updates.
+
+This profile is based on the main website content, as additional subpages (e.g., About) were inaccessible during retrieval. If you have more details or need updates, let me know!
+
+
+Service:
+Here is a detailed profile update focusing on MOTI, the Customer Loyalty Management System, based on the provided page and related site information. Since the direct solutions subpage encountered access issues (likely temporary server error 503), this draws from indexed site content, descriptions, and cross-referenced project examples where MOTI is deployed.
+MOTI: Customer Loyalty Management System
+Overview
+MOTI is a proprietary, dynamic customer loyalty management system developed by ME - Media Explorer. It enables businesses to build, manage, and enhance customer loyalty programs efficiently. The system is designed for flexibility, allowing deployment either on the company's own server or on a cloud platform. This makes it suitable for enterprises seeking scalable, customizable loyalty solutions without being locked into third-party SaaS restrictions.
+Key quote from site descriptions: "MOTI is a dynamic customer loyalty management system that could be deployed on your own server or cloud platform. With MOTI, companies can manage customer ..."
+Key Features and Functionalities
+
+Comprehensive loyalty program setup and management (points accrual, redemption, tiers/levels, rewards catalog).
+Customer data management, segmentation, and personalized marketing tools.
+Integration capabilities with other systems (e.g., e-commerce platforms like MagicCart, mobile apps, websites, payment gateways, or hotel/CRM systems).
+Multi-channel support (web, mobile apps, potentially in-store or kiosk interactions).
+Campaign management for promotions, vouchers, birthday rewards, referral programs, etc.
+Analytics and reporting on customer behavior, engagement, and ROI of loyalty initiatives.
+Customizable rules engine for points earning/spending logic.
+
+Target Businesses and Use Cases
+Primarily aimed at Hong Kong-based enterprises in retail, hospitality, F&B, services, and membership-driven sectors. It supports complex programs for large organizations, including hotel chains, property developers, and retail brands.
+Example real-world deployment:
+
+SHKP Go Royal (Sun Hung Kai Properties' loyalty program): MOTI powers the backend for their hotel loyalty program, integrated with mobile apps and website. It enables easy setup of loyalty mechanics and seamless integration with other digital touchpoints.
+
+Benefits
+
+Control and Ownership: Self-hosted or cloud option gives businesses full data control and customization.
+Scalability: Suitable for enterprise-level programs with high user volumes.
+Integration Flexibility: Works well within ME's ecosystem (e.g., paired with MagicCart for e-commerce + loyalty synergy) or external systems.
+Enhanced Customer Engagement: Helps brands foster long-term relationships through personalized rewards and experiences.
+Cost-Effective for Customization: As an in-house developed solution, it avoids ongoing high fees of some international loyalty SaaS platforms while offering tailored features.
+
+How It Fits into ME's Portfolio
+MOTI is one of ME's core proprietary products, sitting alongside:
+
+MagicCart — Enterprise e-Commerce Solution
+Clubby — Facility & Clubhouse Management System
+ME e-Directory — Interactive Installation (e.g., mall/restaurant directories)
+ME-CMS — Content Management System
+
+These solutions often integrate (e.g., loyalty + e-commerce + CMS for a complete digital experience). MOTI complements retail/e-commerce projects by adding the "retention" layer to customer acquisition funnels.
+Availability and Contact
+MOTI is offered as part of ME's custom solutions/services. Interested businesses can inquire via:
+
+Email: me@me.hk
+Phone: +852 2541 9978 or +852 2541 0940
+Address: Unit 303B, 3/F, Tower 2, Enterprise Square One, 9 Sheung Yuet Road, Kowloon Bay, Kowloon, Hong Kong
+
+No public pricing is listed (typical for enterprise/custom software—likely quote-based depending on scope, users, integrations, and hosting).
+If the specific MOTI page becomes accessible or you have more details/screenshots, I can refine this further. Let me know if you'd like profiles on other products like MagicCart or Clubby!

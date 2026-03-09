@@ -1,0 +1,52 @@
+Setting :
+
+switch dark or light mode
+Add Thread social media
+
+
+Content:
+ https://swocrjarcithg.ok.kimi.link/social-content/6
+ In “Content” section of content details, user can switch previews on different channel.
+
+ Content Templates :
+ - Channel(s) should be setup on each content field independently.
+ - no preview is need
+ - don’t use popup when create and edit template
+
+Generate another Admin interface
+- for viewing and managing all subscribers' accounts, information, payment, KIMI AI usage(as in bundle service)
+-price adjustment
+
+Connect Kimi k2.5 models:
+- Connect kimi AI as ContentHub Bundled AI Provider to generate content from Content Brief
+- appid: 19c8dd6a-2132-8926-8000-00003738ca6d
+- api-keys: sk-kimi-zITebxbZyZvau9NM8vh9YNS36NIvBMTrBtxliTfXd2167jT2axmL5SX9aMudoNc9
+
+Suggest backend server infrastructure and database design for this project
+Backend PostgreSQL, Auth, Edge Functions, Storage
+
+
+The generation speed issue
+
+Grab info from client website (Provide a URL field)
+
+
+
+App id:
+19c8dd6a-2132-8926-8000-00003738ca6d
+ 
+
+KIMI api keys:
+sk-kimi-zITebxbZyZvau9NM8vh9YNS36NIvBMTrBtxliTfXd2167jT2axmL5SX9aMudoNc9
+
+
+Moonshot secret key:
+sk-Qu6ykuJb7Gkg7nIphRopj9IMRjnZI8GKTuneWiaXeb9kO6kH
+
+Chroma API key created:
+ck-G7j2BgcJhrRqZv9vR8VowUWqYCVMiBQeNGf2Ca1SiD3J
+
+ID:
+a56f174a-61e7-4f6c-aa55-f6a22659db9d
+
+chroma login --api-key ck-G7j2BgcJhrRqZv9vR8VowUWqYCVMiBQeNGf2Ca1SiD3J
