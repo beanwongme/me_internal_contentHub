@@ -3,7 +3,7 @@ import conversationService from './conversationService';
 import type { Conversation, Message } from './conversationService';
 
 // Kimi AI Configuration from environment variables
-const KIMI_API_URL = import.meta.env.VITE_KIMI_API_URL || 'https://api.moonshot.cn/v1';
+const KIMI_API_URL = import.meta.env.VITE_KIMI_API_URL || '/api';
 const KIMI_APP_ID = import.meta.env.VITE_KIMI_APP_ID || '';
 const KIMI_API_KEY = import.meta.env.VITE_KIMI_API_KEY || '';
 const KIMI_MODEL = import.meta.env.VITE_KIMI_MODEL || 'kimi-k2.5';

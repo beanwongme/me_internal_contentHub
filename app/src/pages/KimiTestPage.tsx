@@ -5,7 +5,7 @@ import { Badge } from '@/components/ui/badge';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
-import { Checkbox } from '@/components/ui/checkbox';
+
 import { Switch } from '@/components/ui/switch';
 import { AppShell } from '@/components/layout/AppShell';
 import { kimiAIProvider, mockGenerateContent } from '@/services/kimiAi';
@@ -75,7 +75,7 @@ export function KimiTestPage() {
 
   // Timer effect for generation tracking
   useEffect(() => {
-    let interval: NodeJS.Timeout;
+    let interval: ReturnType<typeof setInterval>;
     
     if (isSimpleTesting && generationStartTime) {
       interval = setInterval(() => {
@@ -91,7 +91,7 @@ export function KimiTestPage() {
 
   const loadRagStats = async () => {
     try {
-      const response = await fetch('http://localhost:3001/api/rag/stats');
+      const response = await fetch('/api/rag/stats');
       if (response.ok) {
         const data = await response.json();
         setRagStats(data);
@@ -290,7 +290,7 @@ export function KimiTestPage() {
         }
       }
 
-      const response = await fetch('http://localhost:3001/api/rag/create-db', {
+      const response = await fetch('/api/rag/create-db', {
         method: 'POST',
         body: formData
       });
@@ -345,7 +345,7 @@ export function KimiTestPage() {
     addLog(`Querying RAG: ${ragQuery}`);
 
     try {
-      const response = await fetch('http://localhost:3001/api/rag/query', {
+      const response = await fetch('/api/rag/query', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query: ragQuery, nResults: 5 })
@@ -375,7 +375,7 @@ export function KimiTestPage() {
     }
 
     try {
-      const response = await fetch('http://localhost:3001/api/rag/clear', {
+      const response = await fetch('/api/rag/clear', {
         method: 'POST'
       });
 

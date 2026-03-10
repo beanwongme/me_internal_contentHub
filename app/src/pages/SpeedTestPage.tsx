@@ -30,7 +30,7 @@ export function SpeedTestPage() {
 
   const fetchCacheStats = async () => {
     try {
-      const response = await fetch('http://localhost:3001/cache/stats');
+      const response = await fetch('/cache/stats');
       if (response.ok) {
         const data = await response.json();
         setCacheStats(data);
@@ -122,7 +122,7 @@ export function SpeedTestPage() {
 
   const clearCache = async () => {
     try {
-      const response = await fetch('http://localhost:3001/cache/clear', { method: 'POST' });
+      const response = await fetch('/cache/clear', { method: 'POST' });
       if (response.ok) {
         toast.success('Cache cleared');
         fetchCacheStats();
